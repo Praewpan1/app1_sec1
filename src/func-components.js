@@ -26,7 +26,7 @@ export function Content(){
 export function Footer(){
     return (
         <div style={{textAlign:"center"}}>
-           &copy;{new Date().getFullYear()}All rights reserved
+           &copy;{new Date().getFullYear()}  All rights reserved
         </div>
     )
 }
